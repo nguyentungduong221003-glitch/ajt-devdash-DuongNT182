@@ -1,5 +1,7 @@
 # DevDash — Typed Asynchronous Analytics Dashboard
 
+**Live Demo URL**: [https://nguyentungduong221003-glitch.github.io/ajt-devdash-DuongNT182/](https://nguyentungduong221003-glitch.github.io/ajt-devdash-DuongNT182/)
+
 **DevDash** is a high-fidelity, single-page insights dashboard built using **TypeScript** (under strict type safety checks) and the **Vite** build environment. It pulls real-time catalog data from the DummyJSON API, performs client-side stream transformations using ES6+ Higher-Order Functions, caches item queries using a generic, constrained caching class, and operates via robust state transitions driven by exhaustively narrowed discriminated unions.
 
 ---
